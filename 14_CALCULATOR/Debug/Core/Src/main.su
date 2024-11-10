@@ -1,0 +1,12 @@
+../Drivers/LCD1602/lcd1602.h:28:6:DataDir	32	static
+../Drivers/LCD1602/lcd1602.h:47:9:ReadData	16	static
+../Drivers/LCD1602/lcd1602.h:63:6:WriteData	24	static
+../Drivers/LCD1602/lcd1602.h:89:6:LCD_Busy_Wait	16	static,ignoring_inline_asm
+../Drivers/LCD1602/lcd1602.h:106:6:LCD_Write_Cmd	16	static,ignoring_inline_asm
+../Drivers/LCD1602/lcd1602.h:122:6:LCD_Write_Data	16	static,ignoring_inline_asm
+../Drivers/LCD1602/lcd1602.h:135:6:LCD_Init	8	static
+../Drivers/LCD1602/lcd1602.h:148:6:LCD_ShowString	24	static
+../Core/Src/main.c:68:5:main	136	static
+../Core/Src/main.c:411:6:SystemClock_Config	72	static
+../Core/Src/main.c:448:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:510:6:Error_Handler	4	static,ignoring_inline_asm

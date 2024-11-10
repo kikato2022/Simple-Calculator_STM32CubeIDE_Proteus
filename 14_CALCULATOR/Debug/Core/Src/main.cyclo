@@ -1,0 +1,12 @@
+../Drivers/LCD1602/lcd1602.h:28:6:DataDir	3
+../Drivers/LCD1602/lcd1602.h:47:9:ReadData	9
+../Drivers/LCD1602/lcd1602.h:63:6:WriteData	9
+../Drivers/LCD1602/lcd1602.h:89:6:LCD_Busy_Wait	2
+../Drivers/LCD1602/lcd1602.h:106:6:LCD_Write_Cmd	1
+../Drivers/LCD1602/lcd1602.h:122:6:LCD_Write_Data	1
+../Drivers/LCD1602/lcd1602.h:135:6:LCD_Init	1
+../Drivers/LCD1602/lcd1602.h:148:6:LCD_ShowString	5
+../Core/Src/main.c:68:5:main	103
+../Core/Src/main.c:411:6:SystemClock_Config	3
+../Core/Src/main.c:448:13:MX_GPIO_Init	1
+../Core/Src/main.c:510:6:Error_Handler	1
